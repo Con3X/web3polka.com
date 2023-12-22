@@ -1,2 +1,1 @@
-# web3polka
-web3polka.com
+GitHub pages for web3polka.com
