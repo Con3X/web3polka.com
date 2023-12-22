@@ -1,4 +1,15 @@
+
+# Website content for https://web3polka.com/
+ > based on [Start Bootstrap - New Age](https://startbootstrap.com/theme/new-age/)
+
+The website content is deployed throw GitHub pages automatically upon pushing to `master` branch. The static pages are then added to, and served from, `gh-pages` branch.
+
+Original content below.
+
+---
+
 # [Start Bootstrap - New Age](https://startbootstrap.com/theme/new-age/)
+
 
 [New Age](https://startbootstrap.com/theme/new-age/) is a web app landing page theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
