@@ -16,7 +16,8 @@ module.exports = function renderScripts() {
     
     const copyright = `/*!
 * Start Bootstrap - ${packageJSON.title} v${packageJSON.version} (${packageJSON.homepage})
-* Copyright 2013-${new Date().getFullYear()} ${packageJSON.author}
+* Copyright 2013-2023 Start Bootstrap
+* Copyright 2023-${new Date().getFullYear()} ${packageJSON.author}
 * Licensed under ${packageJSON.license} (https://github.com/StartBootstrap/${packageJSON.name}/blob/master/LICENSE)
 */
 `
